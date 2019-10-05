@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-    cout <<"Hi cs16"<<endl;
-    
+    cout <<"Hi cs8"<<endl;
+  
 return 0;
 }
